@@ -1,7 +1,7 @@
 # AI-lesson
 AI homework
 
-homework 1 : Linear Regression
+Homework 1 : Linear Regression(缺多项式回归，交叉验证、置信区间估计）
 ------------------------------
-homework 2 : Logistic Regression
+Homework 2 : Logistic Regression（空）
 ------------------------------
