@@ -1,4 +1,4 @@
-* 数据集train_binary.csv：二分类处理后的MNIST数据集
+* 数据集mnist_binary.csv：二分类处理后的MNIST数据集
 * 实现AdaBoost分类器和回归器。
 * 使用sk-learn决策树分类器/回归器
 * 同时实现分类和回归
