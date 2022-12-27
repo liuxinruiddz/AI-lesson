@@ -1,0 +1,8 @@
+* 数据集train_binary.csv：二分类处理后的MNIST数据集
+* 实现AdaBoost分类器和回归器。
+* 使用sk-learn决策树分类器/回归器
+* 同时实现分类和回归
+* AdaBoost分类器提供多类分类。
+* 提供预测概率
+* 分类器/回归器评估：混淆矩阵，roc, auc, r-square, mse。
+* 与Sk-learn分类器进行比较。
