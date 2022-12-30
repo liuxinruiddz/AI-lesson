@@ -18,3 +18,5 @@ Homework 2 : Logistic Regression（空）
 ------------------------------
 Homework 3 : AdaBoost
 ------------------------------
+Homework 4 : XGBoost
+------------------------------
