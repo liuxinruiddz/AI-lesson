@@ -6,7 +6,7 @@
 * 使用sk-learn决策树分类器/回归器
 * AdaBoost分类器实现了多类分类
 * 提供预测概率
-* 分类器/回归器评估: 混淆矩阵，roc, auc, r-square, mse
+* 分类器/回归器评估: roc, auc, r-square, mse
 * 与Sk-learn对应的分类器/回归器进行比较: 
   * `AdaBoost Regressor sk-learn.ipynb`
   * `AdaBoost Classifier sk-learn.ipynb`
