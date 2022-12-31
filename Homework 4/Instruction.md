@@ -5,7 +5,7 @@
   * XGBoost分类器: `XGBoost Classifier.ipynb`
 * 使用sk-learn决策树分类器/回归器
 * XGBoost分类器实现了多类分类
-* 分类器/回归器评估: 混淆矩阵，roc, auc, r-square, mse
+* 分类器/回归器评估: roc, auc, r-square, mse
 * 与Sk-learn对应的分类器/回归器进行比较: 
   * `XGBoost Regressor sk-learn.ipynb`
   * `XGBoost Classifier sk-learn.ipynb`
