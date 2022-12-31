@@ -1,5 +1,5 @@
 * 数据集`boston.csv`: 波士顿房价集，用于回归练习
-* 数据集`mnist_binary.csv`: 二分类处理后的MNIST数据集，用于分类练习
+* 数据集`mnist_binary.csv`: 二值化处理后的MNIST数据集，用于分类练习
 * 在不使用sk-learn的情况下, 分别实现:
   * AdaBoost回归器: `AdaBoost Regressor.ipynb`
   * AdaBoost分类器: `AdaBoost Classifier.ipynb`
