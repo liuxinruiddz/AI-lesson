@@ -10,3 +10,10 @@
 * 与Sk-learn对应的分类器/回归器进行比较: 
   * `AdaBoost Regressor sk-learn.ipynb`
   * `AdaBoost Classifier sk-learn.ipynb`
+
+分析
+-------
+Multiple Regression: MSE = 33.44897999767652
+Polynomial Regression: MSE = 30.82890843966428
+AdaBoost Regressor: MSE = 28.40085105292288
+相比之下，AdaBoost 的均方误差更小，也就是结果更优。虽然 AdaBoost 使用了弱回归器，但是100个弱回归器组合起来而形成的强回归器，效果优于多元回归和多项式回归算法。
